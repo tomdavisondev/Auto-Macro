@@ -5,7 +5,7 @@ Auto Macro is a WPF utility written in C# which provides a GUI for creating comp
 ## Usage
 Auto Macro can be used to send Mouse Click and Keyboard Inputs using the hotkeys Shift+R and Shift+E respectively
 Inline-style: 
-![alt text](https://github.com/tomdavisondev/Auto-Macro/Usage.gif)
+![alt text](https://github.com/tomdavisondev/Auto-Macro/blob/main/Usage.gif)
 
 ## Installation
 
